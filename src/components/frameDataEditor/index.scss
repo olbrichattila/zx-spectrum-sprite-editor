@@ -1,0 +1,25 @@
+.frame-data-editor {
+  padding: 12px;
+  background-color: white;
+  color: black;
+
+  textarea {
+    width: 100%;
+    min-height: 300px;
+  }
+
+  .btn-copy {
+    border: 1px solid black;
+    background-color: yellow;
+    color: black;
+    padding: 3px 6px;
+    margin: 0 12px;
+    border-radius: 3px;
+    user-select: none;
+    cursor: pointer;
+
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+}

@@ -1,0 +1,17 @@
+.toggle-button {
+  box-sizing: border-box;
+  width: 24px;
+  height: 24px;
+  border: 1px dotted #d9d9d9;
+  cursor: pointer;
+  user-select: none;
+  background-color: black;
+
+  &.selected {
+    background-color: yellow;
+  }
+
+  &:hover {
+    border: 1px solid yellow;
+  }
+}

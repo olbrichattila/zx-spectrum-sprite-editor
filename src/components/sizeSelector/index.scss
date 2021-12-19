@@ -1,0 +1,16 @@
+.size-selector {
+  max-width: 595px;
+  width: 100%;
+  padding: 6px;
+  line-height: 200%;
+  border: 1px solid yellow;
+  border-radius: 3px;
+  margin-bottom: 12px;
+
+  select {
+    margin: 0 12px;
+    padding: 6px;
+    border: 1px solid yellow;
+    border-radius: 6px;
+  }
+}

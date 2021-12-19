@@ -1,0 +1,9 @@
+.frame-selector {
+  display: flex;
+  flex-grow: 0.9;
+  flex-direction: column;
+
+  @media only screen and (max-width: 600px) {
+    flex-direction: row;
+  }
+}

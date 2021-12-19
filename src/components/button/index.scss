@@ -1,0 +1,14 @@
+.button {
+  border: 1px solid yellow;
+  background-color: yellow;
+  border-radius: 6px;
+  padding: 6px;
+  margin: 6px 6px 0 0;
+  cursor: pointer;
+  user-select: none;
+  color: black;
+
+  &:hover {
+    opacity: 0.8;
+  }
+}

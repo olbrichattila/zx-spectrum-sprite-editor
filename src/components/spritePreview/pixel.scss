@@ -1,0 +1,10 @@
+.pixel {
+  box-sizing: border-box;
+  width: 2px;
+  height: 2px;
+  background-color: white;
+
+  &.selected {
+    background-color: black;
+  }
+}
