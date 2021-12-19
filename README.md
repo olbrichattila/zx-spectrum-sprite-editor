@@ -26,11 +26,15 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 
 It is possible to draw 8 frames and generate the code what you can use in your assembly sprite manager.
 
-Example tutorial game here:
-
 You can also copy back your assemby code and make changes
 
 Screensot:
+
+![Screen](https://raw.githubusercontent.com/olbrichattila/zx-spectrum-sprite-editor/main/screenshot.png)
+
+Example tutorial game here:
+
+https://github.com/olbrichattila/zx-spectrum-demo-assembly-game
 
 ![Screen](https://github.com/olbrichattila/zx-spectrum-demo-assembly-game/blob/main/images/game-screen.png?raw=true)
 
