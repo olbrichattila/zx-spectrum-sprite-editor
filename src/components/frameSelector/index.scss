@@ -5,5 +5,7 @@
 
   @media only screen and (max-width: 600px) {
     flex-direction: row;
+    flex-flow: row wrap;
+    justify-content: center;
   }
 }

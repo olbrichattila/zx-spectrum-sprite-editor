@@ -15,6 +15,7 @@ const FrameDataEditor = ({ text, onChange }) => {
       <p>
         Copy the following lines into your assembly project. Rename frame names
         to reflect what is the sprite about.
+        <br />
         <span className="btn-copy" onClick={() => copyCodeToClipboard()}>
           Copy to clipboard
         </span>
